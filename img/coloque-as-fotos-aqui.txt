@@ -1,0 +1,1 @@
+Coloque aqui as fotos dos produtos (ex.: copo-200.jpg) e use img/copo-200.jpg na coluna imagem da planilha.
